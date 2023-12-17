@@ -9,3 +9,9 @@
 ## Contents :
 * __`main.ipynb`__:
 A Jupyter notebook which provides the solutions of the research questions.
+* __`Command Line.sh`__:
+Code for the command line question.
+* __`Command Line Output.png`__:
+Screen of the output of command line question.
+
+
